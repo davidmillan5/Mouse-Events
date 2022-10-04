@@ -1,0 +1,26 @@
+{
+  "name": "mouse-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmillan5/Mouse-Events.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "EventHandler",
+    "Mouse",
+    "Events",
+    "DOM"
+  ],
+  "author": "'Cesar David Millan cesardavidmillan5@gmail.com'",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmillan5/Mouse-Events/issues"
+  },
+  "homepage": "https://github.com/davidmillan5/Mouse-Events#readme"
+}
